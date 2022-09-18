@@ -1,0 +1,15 @@
+$body-color:rgb(24, 24, 145);
+$span-color:red;
+$alineacion-center : center;
+
+.fondo{
+    background-color:$body-color;
+    text-align: $alineacion-center;
+}
+.texto{
+    color: $span-color;
+    text-align: center;
+}
+.alineacion{
+    text-align: $alineacion-center;
+}
